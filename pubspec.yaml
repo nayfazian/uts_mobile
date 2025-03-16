@@ -29,3 +29,5 @@ flutter:
         - asset: assets/fonts/PlayfairDisplay-Regular.ttf
         - asset: assets/fonts/PlayfairDisplay-Bold.ttf
           weight: 700
+
+          
