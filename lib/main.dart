@@ -59,7 +59,7 @@ class _TemperatureConverterScreenState extends State<TemperatureConverterScreen>
               mainAxisAlignment: MainAxisAlignment.center,
               children: [
                 Text(
-                  "Konversi Suhu 🌸",
+                  "Konversi Suhu",
                   style: TextStyle(
                     fontSize: 28,
                     fontWeight: FontWeight.bold,
